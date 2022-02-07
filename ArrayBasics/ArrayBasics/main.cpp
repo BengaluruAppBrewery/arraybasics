@@ -33,6 +33,6 @@ int main() {
     C[0] = 2;
     for(int k: C){
         cout<<k<<endl;
-    }
+    }//
     return 0;
 }
